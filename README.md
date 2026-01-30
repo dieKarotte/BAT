@@ -154,13 +154,6 @@ cd examples/seld_spatialsoundqa/
 bash scripts/eval_binaural_doa_llama2_ddp.sh
 ```
 
-
-## TODO
-- [x] Decode with checkpoints
-- [x] Upload SpatialSoundQA dataset
-- [x] Upload pretrained checkpoints
-- [x] Update model performance
-
 ## Citation
 ```
 @article{zheng2024bat,
@@ -170,5 +163,3 @@ bash scripts/eval_binaural_doa_llama2_ddp.sh
   year      = {2024},
 }
 ```
-
-## Adaption
